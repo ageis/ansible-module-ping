@@ -1,0 +1,9 @@
+galaxy_info:
+  author: Kevin M. Gallagher (@ageis)
+  description: Ansible ICMP ping module for testing the reachability (and unreachability) of network endpoints.
+  company: n/a
+  issue_tracker_url: https://git.cointel.pro/FOSS/ansible-module-ping/issues/
+  license: GPLv3
+  min_ansible_version: 2.8
+  galaxy_tags: []
+dependencies: []
